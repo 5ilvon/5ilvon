@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @5ilvon
-- 👀 I’m interested in RF Millimeter wave IC Design / Verilog / C++ / MATLAB
+- 👀 I’m interested in RF Millimeterwave IC Design / Verilog / C++
 - 📫 irishsilvan@gmail.com
